@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Introduction & Professional Overview
 
-Welcome to my **AWS Cloud Portfolio** repository. I'm Ammar [Zeyad], an aspiring/dedicated [Choose one: **Cloud Engineer** or **Cloud Practitioner**] focused on mastering **Infrastructure as a Service (IaaS)** and cloud automation principles.
+Welcome to my **AWS Cloud Portfolio** repository. I'm Ammar Zeyad, an aspiring/dedicated **Cloud Engineer**, focused on mastering **Infrastructure as a Service (IaaS)** and cloud automation principles.
 
 This portfolio documents my hands-on journey through Amazon Web Services (AWS), showcasing my ability to translate core concepts into secure, scalable, and cost-effective cloud solutions.
 
@@ -68,7 +68,7 @@ This phase establishes a robust and secure Virtual Private Cloud (VPC) environme
 
 I am actively seeking opportunities and always open to collaboration on cloud projects.
 
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
-* **Email:** [Your Professional Email Address Here]
+* **LinkedIn:** [[Your LinkedIn Profile Link Here](https://www.linkedin.com/in/ammar-zeyad-0a3054251/)]
+* **Email:** [ammarzeyad00@outlook.com]
 
 Thank you for reviewing my work!
