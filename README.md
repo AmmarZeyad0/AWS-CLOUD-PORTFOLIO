@@ -68,7 +68,7 @@ This phase establishes a robust and secure Virtual Private Cloud (VPC) environme
 
 I am actively seeking opportunities and always open to collaboration on cloud projects.
 
-* **LinkedIn:** [[Your LinkedIn Profile Link Here](https://www.linkedin.com/in/ammar-zeyad-0a3054251/)]
+* **LinkedIn:** [Your LinkedIn Profile Link Here](https://www.linkedin.com/in/ammar-zeyad-0a3054251/)]
 * **Email:** [ammarzeyad00@outlook.com]
 
 Thank you for reviewing my work!
